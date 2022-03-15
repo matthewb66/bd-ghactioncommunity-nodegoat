@@ -2,7 +2,7 @@
   "name": "owasp-nodejs-goat",
   "private": true,
   "version": "1.3.0",
-  "description": "A tool to learn OWASP Top 10 for node.js developers3",
+  "description": "A tool to learn OWASP Top 10 for node.js developers",
   "main": "server.js",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
@@ -50,7 +50,7 @@
     "grunt-env": "latest",
     "grunt-if": "https://github.com/binarymist/grunt-if/tarball/master",
     "grunt-jsbeautifier": "^0.2.12",
-    "grunt-mocha-test": "^0.12.7",
+    "grunt-mocha-test": "^0.13.3",
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^0.3.12",
     "mocha": "^2.4.5",
